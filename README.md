@@ -4,6 +4,7 @@ Utilize the OpenAI Whisper library to transcribe audio files efficiently.
 For more details about Whisper, check the official repository. (https://github.com/openai/whisper)
 
 Installation and Usage:
+
 Step 1 - Python Installation: Ensure you have the latest version of Python. The project was tested on Python 3.10.6.
 
 Step 2 - PyTorch and CUDA:
