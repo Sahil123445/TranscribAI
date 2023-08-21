@@ -1,4 +1,4 @@
-# transcribeWithPython
+# TranscribAI
 
 Utilize the OpenAI Whisper library to transcribe audio files efficiently.
 For more details about Whisper, check the official repository. (https://github.com/openai/whisper)
